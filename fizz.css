@@ -1,0 +1,200 @@
+:root{
+    
+}
+*{
+   
+    box-sizing: border-box;
+
+}
+body{
+    font-family: sans-serif;
+}
+.menu__bar{
+    background-color:#0b0b1a;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+
+}
+.logo{
+    margin-left: 2%;
+    height: 103px;
+    
+}
+.menu__bar ul{
+    color:var(--color-primary);
+}
+.menu__bar ul {
+    list-style: none;
+    display: flex;
+}.menu__bar ul li{
+    padding: 20px 030px;
+}
+.menu__bar ul a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 80px;
+    margin-left:75px ;
+    margin-top: 3%;
+    transition: all 0.3s;
+}
+.menu__bar ul a:hover{
+    color: red;
+}
+.bigimage{
+    width: 100%;
+    margin-top:2px ;
+    
+    height: 100%;
+}
+.blackbox{
+    width: 50%;
+    height: 3500px;
+    margin-top: -15%;
+    
+    background-color: black;
+}
+.rotate{
+
+    margin-top: 51%;
+    margin-left: 869px;
+    height: 1800px;
+    
+    
+}
+.rotateheading{
+    height:-52% ;
+    
+    margin-top: -1313px;
+    margin-left:359px ;
+    color: white;
+    font-size: 359px;
+}
+.rotateheading2{
+
+    margin-top: -301px;
+    margin-left:823px ;
+    color: white;
+    font-size: 359px;
+
+
+}
+p{ 
+    margin-top:-2619px ;
+    margin-left: 57% ;
+    font-size:92px ;
+    
+}
+.social{
+    margin-top: 0%
+    display
+}
+ .social{ margin-top:-85px;
+    margin-left: 56%;
+    height: 284px;
+
+ }   
+.fizz2{
+    height: 100%;
+    width: 100%;
+    margin-top: 3%;
+}
+.line1{
+    font-size:55px;
+    color: #0b0b1a;
+    
+}
+    
+.item2{
+    margin-left: 27%;
+    margin-top: -8%;
+    font-size:   48px ;
+    color: #0b0b1a;
+}
+.export{
+    margin-left: 27% ;
+    font-size: 48px;
+    
+    color: darkblue;
+    text-decoration: none;
+}
+.export.a:hover{
+    color: red;
+}
+.performs{
+    font-size: 51px;
+    margin-top: -28;
+    margin-left: 27%;
+    color: darkblue;
+    text-decoration: none;
+}
+.consumer{
+    font-size: 51px;
+    margin-left: 27%;
+    margin-top: -30px;
+    color: darkblue;
+    text-decoration: none;
+}
+.footer{
+    height: 800px;
+    background-color: white;
+    ;
+}
+.media{
+    font-size: 51px;
+    margin-left: 27%;
+    margin-top: -32px;
+    color: darkblue;
+    text-decoration: none;
+}
+.ourpolicy{
+    font-size: 51px;
+    margin-left: 72%;
+    margin-top: -324px;
+    color :#0b0b1a ;
+    text-decoration: none;
+    
+}
+.vigil{
+    font-size: 51px;
+    margin-top: -324px;
+    margin-left: 72%;
+    color: darkblue;
+    text-decoration: none;
+} 
+.Annual{
+    font-size: 51px;
+    margin-left: 72%;
+    color: darkblue;
+    text-decoration: none;
+}
+.touch{
+    font-size: 51px;
+    margin-left: 72%;
+
+    color :#0b0b1a;
+    text-decoration: none;
+
+}
+.lastwords{
+    font-size: 51px;
+    margin-left: 72%;
+
+    color :#0b0b1a;
+    text-decoration: none;
+}
+.info{
+    font-size: 51px;
+    margin-top: -324px;
+    margin-left: 72%;
+    color: darkblue;
+    text-decoration: none;
+}
+.machanism{
+    text-decoration: none;
+}
+.parleagro{
+    text-decoration: none;
+}
